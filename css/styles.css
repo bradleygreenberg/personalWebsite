@@ -1,0 +1,170 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+.subtitle {
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.size-200 {
+  height: 200px;
+  width: 200px;
+}
+
+.middle-container {}
+
+.bottom-container {
+
+  padding-top: 20px;
+  background-color: rgb(101, 191, 191);
+  margin-bottom: 0px;
+  padding: 20px 0;
+  line-height: 3;
+}
+
+.profile {
+  margin-bottom: 100px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 30%;
+  top: 5%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 25%;
+  bottom: 40%;
+}
+
+.circular-image {
+  border-radius: 100%;
+}
+
+.self-picture {
+  height: 200px;
+  width: auto;
+  margin-top: 25px;
+}
+
+.skill-picture-one {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-picture-two {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.self-info {
+  line-height: 2;
+  width: 30%;
+  margin: 0 auto;
+}
+
+hr {
+  border-style: dotted;
+  border-width: 5px 0 0 0;
+  color: grey;
+  width: 5%;
+}
+
+.skills {
+  margin-top: 75px;
+}
+
+.contact-me {
+  margin-top: 80px;
+  width: 40%;
+  margin: 70px auto;
+  line-height: 2;
+}
+
+.BUTTON_UDZ {
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  border-radius: 7px;
+  height: 10px;
+  line-height: 16px;
+  color: #FFFFFF;
+  font-family: sans-serif;
+  width: 25%;
+  font-size: 16px;
+  font-weight: 100;
+  padding: 20px;
+  background-color: #4EB9BE;
+  border: solid #337FED 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON_UDZ:hover {
+  border: solid #337FED 1px;
+  background: #1E62D0;
+  background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: linear-gradient(to bottom, #1E62D0, #3D94F6);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.copyright-line {
+  margin-bottom: 0px;
+  color: white;
+}
+
+.logo {
+  height: 75px;
+}
